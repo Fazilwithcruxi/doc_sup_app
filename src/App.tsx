@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { 
   Send, CheckCircle, Pill, DollarSign, Calendar, Clock, AlertTriangle, 
   Lock, User, LogOut, FileText, Search, LayoutDashboard, Users, 
-  Settings, MessageSquare, Activity, Mail, PieChart, TrendingUp, Sun, Moon
+  Settings, MessageSquare, Activity, PieChart, TrendingUp, Sun, Moon
 } from 'lucide-react';
 import { 
   AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer 
